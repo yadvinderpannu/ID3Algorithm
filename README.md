@@ -1,6 +1,6 @@
 # ID3Algorithm
 ID3 Algorithm for generating decision tree used to predict class of Iris plant.
-The dataset is taken from the UCI Machine Learning Repository. It can be found in the link below:
+The dataset is taken from the UCI Machine Learning Repository. It can be found in this link:
 https://archive.ics.uci.edu/ml/datasets/iris
 
 1. The program takes two arguments as an input.
